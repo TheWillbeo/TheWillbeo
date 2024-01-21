@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Lua vs C++** *and what they are both used for.*
 - ⚡ Fun fact: I'm a huge techie, I know a lot about computers. Figured coding would be a solid addition to that knowledge, and I've always wanted to make a game. :D
 
-Computer Specs
+**Computer Specs**
 Build Date  : 1/3/2024
 - Case       : Thermaltake View 31 RGB
 - PSU        : 650Watt EVGA Gold 80+
@@ -15,7 +15,7 @@ Build Date  : 1/3/2024
 - GPU        : MSI Geforce RTX 2080 8GB Ventus OC
 - Sound      : iFi Zen DAC V2 - Balanced speaker output to *Headphones*
 
-~Equipment~
+**Equipment**
 - Monitor    : Samsung Odyssey G50A | 27", 1440p, 165Hz, HDR10, IPS
 - Keyboard   : EVGA Z15, Kailh Speed Silver Switches
 - Mouse      : Logitech G703 Lightspeed, set at 1600dpi
