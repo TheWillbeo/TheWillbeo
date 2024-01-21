@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Lua vs C++** *and what they are both used for.*
 - ⚡ Fun fact: I'm a huge techie, I know a lot about computers. Figured coding would be a solid addition to that knowledge, and I've always wanted to make a game. :D
 
-~Computer Specs~
+Computer Specs
 Build Date  : 1/3/2024
 - Case       : Thermaltake View 31 RGB
 - PSU        : 650Watt EVGA Gold 80+
